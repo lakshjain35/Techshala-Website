@@ -1,0 +1,21 @@
+.middle-align {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    background: none;
+    border: none;
+}
+.simple-page-wrap {
+    width: 380px;
+    margin: 0 auto;
+}
+*{
+box-sizing: border-box;
+}
+.div {
+    display: block;
+}
+element.style {
+    color: white;
+}
